@@ -15,8 +15,11 @@ def check():
     if(choice == 1):
         print(add())
 
-    else:
+    elif(choice == 2):
         print(sub())
+
+    else:
+        print("ERROR")
     return 0
 
 check()
