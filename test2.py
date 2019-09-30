@@ -23,5 +23,3 @@ def check():
     return 0
 
 check()
-
-
